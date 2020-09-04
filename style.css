@@ -514,6 +514,7 @@ p{
 
 .contact__links i {
     transition: all var(--animation-duration) ease-in;
+    margin: 0 10px;
 }
 
 .contact__links i:hover {
